@@ -1,51 +1,12 @@
-* {
-    margin: 0;
-    padding: .25em;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+*{
+    background-color: violet;
+    background-image: url(https://animacrafts.com/cdn/shop/files/the-moon-enamel-pin-the-legend-of-zelda-majoras-mask-5826650.png?v=1761872380);
+}
 }
 
-body {
 
-    background-color: pink;
+ul{
+    font-size: 4rem;
+
+}
     
-    
-
-}
-
-main {
-
-    font-family: Zelda DX TT BRK;
-}
-header {
-
-}
-
-h1 {
-    color: white;
-}
-
-ul {
-    color: white;
-    font-family: Zelda DX TT BRK;
-}
-
-li {
-    margin-left: 5em;
-    color: crimson;
-}
-
-p {
-    color: white;
-}
-
-a {
-    color: crimson;
-}
-
-
-footer {
-
-    font-style: oblique;
-    font-family: 'Courier New', Courier, monospace;
-
-}

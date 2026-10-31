@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: .25em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    background: linear-gradient(120deg, greenyellow 0%, red 100%)
+}
+
+body {
+
+    background-color: greenyellow;
+    
+    
+
+}
+
+main {
+
+    /*font-family: Zelda DX TT BRK;*/
+}
+header {
+
+}
+
+h1 {
+    color: violet;
+    border-style: dashed;
+    border-width: 2rem;
+    border-color: orangered;
+    padding: 2em;
+}
+
+ul {
+    color: violet;
+    align-content: center;
+    /*font-family: Zelda DX TT BRK;*/
+    border-style: ridge;
+    border-width: 2rem;
+    border-color: orangered;
+}
+
+li {
+    margin-left: 5em;
+    color: crimson;
+}
+
+p {
+    color: white;
+    border-style: unset;
+    border-width: 2rem;
+    border-color: orangered;
+}
+
+a {
+    color: crimson;
+}
+
+
+footer {
+    font-size: 15rem;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    column-span: all;
+}
+
+article {
+
+    column-count: 3;
+    column-gap: 10px;
+}
